@@ -8,6 +8,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## How to Run this application after cloning
 
+Technical Stacks: Angular.js, TypeScript, JavaScript, CSS, Bootstrap, HTML5, Firebase
+
 Simply Download it, then install all dependencies by using npm install in cli
 
 Once its done, then change the url for signUp- SignIn rest api in auth.service.ts and for database connection in data-storage.service.ts file
