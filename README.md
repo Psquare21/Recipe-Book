@@ -6,6 +6,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## How to Run this application after cloning
+
+Simply Download it, then install all dependencies by using npm install in cli
+
+Once its done, then change the url for signUp- SignIn rest api in auth.service.ts and for database connection in data-storage.service.ts file
+
+After completing all the above steps you are good to go!! Happy Coding!!
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
