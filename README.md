@@ -1,14 +1,21 @@
 # RecipeBook
 
+Technical Stacks: Angular.js, TypeScript, JavaScript, CSS, Bootstrap, HTML5, Firebase
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+
+It is an web application where a user can add recipes for new food dishes. The user also can add and save ingredients of a recipe to the shopping list. 
+
+Designed front-end using Angular.js, CSS, Bootstrap, and HTML5
+
+Coded application in TypeScript and stored data in Firebase real-time database
+
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## How to Run this application after cloning
-
-Technical Stacks: Angular.js, TypeScript, JavaScript, CSS, Bootstrap, HTML5, Firebase
 
 Simply Download it, then install all dependencies by using npm install in cli
 
